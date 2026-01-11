@@ -1,6 +1,6 @@
 # Robocode-lesson
 # this h1 tag
-##this h2 tag
+## this h2 tag
 ###### this h6 tag
 
 *This text will be italic*
